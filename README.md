@@ -10,4 +10,4 @@ Note:
 #
 Resources :  
 - schools_complete.csv  
-- stucents_complete.csv  
+- students_complete.csv  
