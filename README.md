@@ -6,7 +6,8 @@
 Pelase refer to main Jupyter Notebook to run code : note DF tables are named using convention provided. 
   
 For the last 3 questions when Binning / grouping was used -   
-I have created my own seperate grouped summary table befor using the script suggessted for the final data frame.   
+I have created my own seperate grouped summary table before using the script suggessted for the final data frame.    
+Hence there is method 1 : Straight to aggregation table and metod 2: creating df from varilables generated.
   
 Please note the data frames should be the same output although methodology was different. 
 # 
